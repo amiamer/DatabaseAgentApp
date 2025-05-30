@@ -1,0 +1,8 @@
+streamlit
+pandas
+pyodbc
+python-dotenv
+langchain-ollama
+langchain-core
+langchain
+numpy
