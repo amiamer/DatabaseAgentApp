@@ -51,7 +51,9 @@ Converts natural language to SQL queries for MSSQL databases.
 ## Troubleshooting
 
 **Connection fails**: Check ODBC driver, credentials, server access
+
 **AI initialization fails**: Verify Ollama is running and API key is set
+
 **Slow performance**: First query loads models, subsequent queries are faster
 
 ## Files
